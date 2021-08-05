@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ankit-Anshu
-- 👀 I’m interested in Data Analytics, Data Science, ML
+- 👀 I’m interested in Data Analytics, Data Visualization
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data Analytics Project
 - 📫 How to reach me https://www.linkedin.com/in/ankit-ankit-7a4611171
