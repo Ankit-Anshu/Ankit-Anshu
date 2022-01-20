@@ -10,7 +10,7 @@
 - 📫 How to reach me **https://www.linkedin.com/in/ankitanshu01**
 
 - My perfect time pass   **Reading Books<a target="blank"><img align="center" src="https://github.com/Ankit-Anshu/photo/blob/master/animal-kitty.gif" height="35" width="35" /></a> , Cooking  <a target="blank"><img align="center" src="https://github.com/Ankit-Anshu/photo/blob/master/rabbit-blushed.gif" height="35" width="35" /></a>, Ukulele  <a target="blank"><img align="center" src="https://github.com/Ankit-Anshu/photo/blob/master/guitar-ukulele.gif" height="35" width="35" /></a>, Solving rubik's cube  <a target="blank"><img align="center" src="https://github.com/Ankit-Anshu/photo/blob/master/agenturleben-agencylife.gif" height="35" width="35" /></a>, Daydreaming Ideas  <a target="blank"><img align="center" src="https://github.com/Ankit-Anshu/photo/blob/master/cat-sofa.gif" height="35" width="35" /></a>**
-- Game I Play  **Volleyball  <a target="blank"><img align="center" src="https://github.com/Ankit-Anshu/photo/blob/master/sports-sportsmanias.gif" height="40" width="40" /></a>, Cricket, Chess**
+- Game I Like to Play  **Volleyball  <a target="blank"><img align="center" src="https://github.com/Ankit-Anshu/photo/blob/master/sports-sportsmanias.gif" height="40" width="40" /></a>, Cricket, Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
