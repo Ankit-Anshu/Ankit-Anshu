@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/ankitanshu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitanshu01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankitanshu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitanshu01" height="30" width="40" /></a>
- <a href="https://public.tableau.com/app/profile/ankitanshu" target="blank"><img align="center" src="https://github.com/Ankit-Anshu/photo/blob/master/download.jpg" alt="ankitanshu01" height="30" width="40" /></a>
+ <a href="https://public.tableau.com/app/profile/ankitanshu" target="blank"><img align="center" src="https://github.com/Ankit-Anshu/Ankit-Anshu/blob/main/photo/download.jpg" alt="ankitanshu01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
