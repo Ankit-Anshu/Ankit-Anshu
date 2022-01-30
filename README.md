@@ -36,8 +36,7 @@
   <a  target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ankit-anshu&theme=blue-green" alt="ankit-anshu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-anshu&theme=blue-green" alt="ankit-anshu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-anshu&" alt="ankit-anshu" /></p>
+
