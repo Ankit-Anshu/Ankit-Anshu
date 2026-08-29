@@ -1,31 +1,18 @@
+name: Generate Commit Invaders
 
-Space shooter · YML
-name: Generate Space Shooter
- 
 on:
   schedule:
-    - cron: '0 0 * * *'   # runs daily at midnight UTC
+    - cron: '0 0 * * *'   # refresh daily at midnight UTC
   workflow_dispatch:        # lets you run it manually from the Actions tab
-  push:
-    branches:
-      - main
- 
-permissions:
-  contents: write
- 
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v6
+      - uses: actions/checkout@v4
+      - uses: Goblinlordx/commit-invaders@v1
         with:
-          fetch-depth: 2      # required by the action
- 
-      - name: Generate space shooter GIF
-        uses: czl9707/gh-space-shooter@v2
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'space-shooter.gif'
-          strategy: 'random'   # options: random | row | column
- 
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
