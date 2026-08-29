@@ -1,5 +1,7 @@
-name: Generate Space Shooter
 
+Space shooter · YML
+name: Generate Space Shooter
+ 
 on:
   schedule:
     - cron: '0 0 * * *'   # runs daily at midnight UTC
@@ -7,10 +9,10 @@ on:
   push:
     branches:
       - main
-
+ 
 permissions:
   contents: write
-
+ 
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -19,10 +21,11 @@ jobs:
         uses: actions/checkout@v6
         with:
           fetch-depth: 2      # required by the action
-
+ 
       - name: Generate space shooter GIF
         uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'space-shooter.gif'
           strategy: 'random'   # options: random | row | column
+ 
